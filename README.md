@@ -4,15 +4,7 @@
 >Algunas arañas son muy conocidas por su capacidad para tejer telas, que utilizan para atrapar presas. Otras, como las tarántulas, son más grandes y pueden parecer intimidantes, pero muchas son inofensivas para los humanos. Aunque algunas especies pueden ser venenosas, la mayoría no representan un peligro significativo.
 [![](https://th.bing.com/th/id/OIP.3vYUfoloLV_vdxHpNnVhkQHaFa?rs=1&pid=ImgDetMain)](http://https://th.bing.com/th/id/OIP.3vYUfoloLV_vdxHpNnVhkQHaFa?rs=1&pid=ImgDetMain)
 
-**Table of Contents**
 
-[TOCM]
-
-[TOC]
-
-#H1 THE-SPIDERS1
-##H2 araña violinista
-###End
 # ARAÑA VIOLINISTA
 La araña violinista, también conocida como araña de los reyes o Loxosceles reclusa, es famosa por su veneno potencialmente peligroso. Esta araña se distingue por la forma de un violín en su cefalotórax, lo que le da su nombre.
 
@@ -31,4 +23,4 @@ Para evitar encuentros, es recomendable mantener áreas limpias y desordenadas, 
 
 [![](https://th.bing.com/th/id/OIP.qA3bxt6DBV0SocN6YkV9IgHaEK?rs=1&pid=ImgDetMain)](http://https://th.bing.com/th/id/OIP.qA3bxt6DBV0SocN6YkV9IgHaEK?rs=1&pid=ImgDetMain)
 
-###End
+#End
