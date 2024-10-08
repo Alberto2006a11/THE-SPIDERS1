@@ -28,5 +28,7 @@ El veneno de la araña violinista contiene sustancias que pueden causar necrosis
 
 Prevención:
 Para evitar encuentros, es recomendable mantener áreas limpias y desordenadas, así como usar guantes al manipular objetos almacenados por mucho tiempo.
+
 [![](https://th.bing.com/th/id/OIP.qA3bxt6DBV0SocN6YkV9IgHaEK?rs=1&pid=ImgDetMain)](http://https://th.bing.com/th/id/OIP.qA3bxt6DBV0SocN6YkV9IgHaEK?rs=1&pid=ImgDetMain)
+
 ###End
